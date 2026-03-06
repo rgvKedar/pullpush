@@ -4,3 +4,6 @@ def greet(name):
 print(greet("Bob"))
 
 python code added by dev2
+
+
+code added by dev3 to check the push and pull conflicts
